@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Education
 
-You can use the [editor on GitHub](https://github.com/Lucidare/BrianAu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+2013-2019
+:   **H.B.Sc - Computer Science Specialist Co-op (Software Engineering Stream)**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    University of Toronto - Scarborough Campus
 
-### Markdown
+## Work Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Apr 2019 - Present
+: **Weav \| Frontend Developer**
+- Working for the startup [Weav](https://letsweav.com/) focusing on iOS development
 
-```markdown
-Syntax highlighted code block
+Jan 2018 - Apr 2018
+: **Canada Revenue Agency \| Cross-functional Analyst**
+- Developed algorithms to help improve overall efficency
+- Provided queries to large datasets to find outliers
 
-# Header 1
-## Header 2
-### Header 3
+Jan 2017 - Dec 2017
+:   **Parks Canada \| Mobile Application Developer**
+- Developed “The Rouge”, a mobile app designed for the Rouge National Urban Park, in Swift and
+Java using XCode and Android Studio focusing on the iOS end
+- [Android](https://play.google.com/store/apps/details?id=com.rouge.Rouge_App) \| [iOS](https://apps.apple.com/ca/app/the-rouge/id1260655022)
 
-- Bulleted
-- List
+## Technical Skills
+- Skilled with the languages Swift, Python, Java, Assembly, VBA, C, C++
 
-1. Numbered
-2. List
+- Comfortable with multiple development environments (Wing, Eclipse, Xcode, and Android
+Studio), databases (mySQL, Core Data) and data formats (JSON, XML)
 
-**Bold** and _Italic_ and `Code` text
+- Experienced in object oriented programming and version control (SVN, Git)
 
-[Link](url) and ![Image](src)
-```
+- Adept at Microsoft Office Suite (Word, PowerPoint, Excel)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Interpersonal Skills
+- Effective analytical and problem-solving skills developed from studies in computer science and
+mathematics
 
-### Jekyll Themes
+- Strong oral and written communication skills from interacting with users and teams
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lucidare/BrianAu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Fluent in both English and Cantonese
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Excellent organizational skills and time management skills achieved by prioritizing important projects and
+completing tasks before deadline
