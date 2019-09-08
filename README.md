@@ -1,6 +1,6 @@
 ## Contact Information
 
-| Email: brian.au@alum.utoronto.ca | Tel: 647-936-6296 |
+| Email: <brian.au@alum.utoronto.ca> | Tel: [647-936-6296](tel:6479366296) |
 
 ## Education
 
