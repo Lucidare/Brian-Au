@@ -1,3 +1,7 @@
+## Contact Information
+
+| Email: brian.au@alum.utoronto.ca | Tel: 647-936-6296 |
+
 ## Education
 
 2013-2019
@@ -42,3 +46,6 @@ mathematics
 
 - Excellent organizational skills and time management skills achieved by prioritizing important projects and
 completing tasks before deadline
+
+## Links
+[LinkedIn](https://www.linkedin.com/in/brian-au-uoft/) | [Github](https://github.com/Lucidare/)
