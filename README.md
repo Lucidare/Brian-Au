@@ -5,7 +5,7 @@
 
 ## Education
 
-2013-2019
+2014-2019
 :   **H.B.Sc - Computer Science Specialist Co-op (Software Engineering Stream)**
 
     University of Toronto - Scarborough Campus
