@@ -1,1 +1,4 @@
-theme: jekyll-theme-midnight
+title: Brian Au
+theme: jekyll-theme-minimal
+logo: ./Logo.png
+google_analytics: UA-147243437-1
