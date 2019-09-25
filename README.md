@@ -5,7 +5,7 @@
 
 ## Technical Skills
 - Skilled with the languages Swift, Python, Java, Assembly, VBA, C, C++, Matlab
-- Comfortable with multiple development environments (Wing, Eclipse, Xcode, and Android
+- Comfortable with multiple development environments (Linux, Wing, Eclipse, Xcode, and Android
 Studio), databases (mySQL, Core Data) and data formats (JSON, XML)
 - Experienced in object oriented programming and version control (SVN, Git)
 - Adept at Microsoft Office Suite (Word, PowerPoint, Excel)
