@@ -28,8 +28,8 @@ completing tasks before deadline
 ## Work Experience
 
 Apr 2019 - Present
-: **Weav \| Frontend Developer**
-- Working for the startup [Weav](https://letsweav.com/) focusing on iOS development
+: **[Weav](https://letsweav.com/) \| Frontend Developer**
+- Working on frontend development for iOS
 
 Jan 2018 - Apr 2018
 : **Canada Revenue Agency \| Cross-functional Analyst**
