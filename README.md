@@ -48,7 +48,7 @@ Java using XCode and Android Studio focusing on the iOS end
 Jan 2019 - Present
 : **African Canadian Christian Society - First Robotics Competition Mentor**
 - Mentored students in writing code, working with sensors, and automation
-- Taught an robotics focused java course for highschool students
+- Taught a robotics focused java course for highschool students
 
 Sep 2009 - Sep 2013
 : **Air Cadets - 110 Blackhawk Squadron**
