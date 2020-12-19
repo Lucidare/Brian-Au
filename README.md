@@ -58,5 +58,11 @@ Sep 2009 - Sep 2013
 - Developed leadership and time management skills through leading cadets and organizing
 activities during camp
 
+## Projects
+Dec 2020
+: [**Common-Songs**](https://Common-Songs.com)
+- Website that uses the Spotify API to find Common songs (https://Common-Songs.com)
+- Created with React, Javascript, hosted on Heroku.
+
 ## Links
 [LinkedIn](https://www.linkedin.com/in/brian-au-uoft/) | [Github](https://github.com/Lucidare/)
