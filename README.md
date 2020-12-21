@@ -61,7 +61,7 @@ activities during camp
 ## Projects
 Dec 2020
 : [**Common-Songs**](https://Common-Songs.com)
-- Website that uses the Spotify API to find Common songs (https://Common-Songs.com)
+- Website that uses the Spotify API to find Common songs ([https://Common-Songs.com](https://Common-Songs.com))
 - Created with React, Javascript, hosted on Heroku.
 
 ## Links
