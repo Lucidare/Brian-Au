@@ -26,7 +26,7 @@ completing tasks before deadline
 ## Work Experience
 
 Jan 2021 - Present
-: **[Rhino Active](https://red-rhino.com/rhinoactive/) | iOS Developer**
+: **[Rhino Active](https://red-rhino.com/rhinoactive/) \| iOS Developer**
 
 Apr 2019 - Present
 : **[Weav](https://letsweav.com/) \| iOS Developer**
