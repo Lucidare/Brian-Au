@@ -5,14 +5,12 @@
 
 ## Technical Skills
 - Skilled with the languages Swift, Python, Java, Assembly, VBA, C, C++, Matlab
-- Comfortable with multiple development environments (Linux, Wing, Eclipse, Xcode, and Android
-Studio), databases (mySQL, Core Data) and data formats (JSON, XML)
+- Comfortable with multiple development environments (Linux, Wing, Eclipse, Xcode, and Android Studio), databases (mySQL, Core Data) and data formats (JSON, XML)
 - Experienced in object oriented programming and version control (SVN, Git)
 - Adept at Microsoft Office Suite (Word, PowerPoint, Excel)
 
 ## Interpersonal Skills
-- Effective analytical and problem-solving skills developed from studies in computer science and
-mathematics
+- Effective analytical and problem-solving skills developed from studies in computer science and mathematics
 - Strong oral and written communication skills from interacting with users and teams
 - Fluent in both English and Cantonese
 - Excellent organizational skills and time management skills achieved by prioritizing important projects and
@@ -26,6 +24,9 @@ completing tasks before deadline
     University of Toronto - Scarborough Campus
 
 ## Work Experience
+
+Jan 2021 - Present
+: **[Rhino Active](https://red-rhino.com/rhinoactive/) | iOS Developer**
 
 Apr 2019 - Present
 : **[Weav](https://letsweav.com/) \| iOS Developer**
@@ -55,14 +56,13 @@ Sep 2009 - Sep 2013
 - Was awarded best first year cadet
 - Reached the rank of Flight Corporal
 - Raised money through auctions, tags as well as Ontario Provincial Committee Annual Lottery Tickets
-- Developed leadership and time management skills through leading cadets and organizing
-activities during camp
+- Developed leadership and time management skills through leading cadets and organizing activities during camp
 
 ## Projects
 Dec 2020
 : [**Common-Songs**](https://www.common-songs.com)
-- Website that uses the Spotify API to find Common songs ([https://www.common-songs.com](https://www.common-songs.com))
-- Created with React, Javascript, hosted on Heroku.
+- Website that uses the Spotify API to find Common songs ([common-songs.com](https://www.common-songs.com))
+- Created with React, Javascript, hosted on Netlify/Heroku.
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/brian-au-uoft/) | [Github](https://github.com/Lucidare/)
