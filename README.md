@@ -28,7 +28,7 @@ completing tasks before deadline
 Jan 2021 - Present
 : **[Rhino Active](https://red-rhino.com/rhinoactive/) \| iOS Developer**
 
-Apr 2019 - Present
+Apr 2019 - Sept 2021
 : **[Weav](https://letsweav.com/) \| iOS Developer**
 - Working on frontend development for iOS using swift
 
