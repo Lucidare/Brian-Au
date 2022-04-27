@@ -26,7 +26,7 @@ completing tasks before deadline
 ## Work Experience
 
 Apr 2022 - Present
-: **[ACICS](https://www.asics.com/ca/en-ca/) \| iOS Developer**
+: **[ASICS](https://www.asics.com/ca/en-ca/) \| iOS Developer**
 
 Jan 2021 - Apr 2022
 : **[Rhino Active](https://red-rhino.com/rhinoactive/) \| iOS Developer**
