@@ -27,13 +27,24 @@ completing tasks before deadline
 
 Apr 2022 - Present
 : **[ASICS](https://www.asics.com/ca/en-ca/) \| iOS Developer**
+- Worked on the Runkeeper app with a focus on the Explore tab
 
 Jan 2021 - Apr 2022
 : **[Rhino Active](https://red-rhino.com/rhinoactive/) \| iOS Developer**
+- Worked on the following apps: 
+    - WesternU EngageFHS
+    - LiUNA Local 1059
+    - Hublee
+    - Fastrac App
+    - Brain Tumour Fdn App
+    - Conestoga Students Inc. (CSI)
+    - Precision Injection Snapshot
+    - Precision Injecting Systems
+    - Surg Discussion Platform
 
 Apr 2019 - Sept 2021
 : **[Weav](https://letsweav.com/) \| iOS Developer**
-- Working on frontend development for iOS using swift
+- Worked on frontend development for iOS using swift
 
 Jan 2018 - Apr 2018
 : **Canada Revenue Agency \| Cross-functional Analyst**
