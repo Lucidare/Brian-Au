@@ -25,7 +25,7 @@ completing tasks before deadline
 
 ## Work Experience
 
-Apr 2022 - Present
+Apr 2022 - Dec 2023
 : **[ASICS](https://www.asics.com/ca/en-ca/) \| iOS Developer**
 - Worked on the Runkeeper app with a focus on the Explore tab
 
