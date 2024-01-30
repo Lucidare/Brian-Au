@@ -27,7 +27,8 @@ completing tasks before deadline
 
 Apr 2022 - Dec 2023
 : **[ASICS](https://www.asics.com/ca/en-ca/) \| iOS Developer**
-- Worked on the Runkeeper app with a focus on the Explore tab
+- Worked on the Runkeeper app with a focus on the Explore tab using a mixture of Storyboards,
+UIKit, and SwiftUI
 
 Jan 2021 - Apr 2022
 : **[Rhino Active](https://red-rhino.com/rhinoactive/) \| iOS Developer**
