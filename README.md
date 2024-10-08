@@ -48,7 +48,7 @@ Apr 2019 - Sept 2021
 - Worked on frontend development for iOS using swift
 
 Jan 2018 - Apr 2018
-: **Canada Revenue Agency \| Cross-functional Analyst**
+: **Canada Revenue Agency \| Cross Functional Analyst**
 - Developed algorithms to help improve overall efficiency
 - Provided queries to large datasets to find outliers
 
@@ -59,12 +59,13 @@ Java using XCode and Android Studio focusing on the iOS end
 - Worked with multi-language support, databases, local and push notifications with Firebase, and location services through Google Maps
 - [Android](https://play.google.com/store/apps/details?id=com.rouge.Rouge_App) \| [iOS](https://apps.apple.com/ca/app/the-rouge/id1260655022)
 
-## Volunteer Experience
+## Other Experience
 
 Jan 2019 - Present
-: **African Canadian Christian Society - First Robotics Competition Mentor**
+: **African Canadian Christian Society - First Robotics Competition Team 7712 Umoja - Lead Coding Mentor / Drive Team Coach**
 - Mentored students in writing code, working with sensors, and automation
-- Taught a robotics focused java course for highschool students
+- Taught a robotics focused java course for high school student
+- Team won the following awards: Engineering Design Award (2021), Imagery Award in honor of Jack Kamen (2023), District FIRST Impact Award (2024), District Event Finalist (2024), Team Spirit Award (2024), Regional FIRST Impact Award (2024)
 
 Sep 2009 - Sep 2013
 : **Air Cadets - 110 Blackhawk Squadron**
