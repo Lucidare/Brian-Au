@@ -75,12 +75,10 @@ Sep 2009 - Sep 2013
 - Developed leadership and time management skills through leading cadets and organizing activities during camp
 
 ## Projects
-Nov 2024
-Plugin for Runelite - Soul Wars [![Active Installs](http://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/soul-wars)](https://runelite.net/plugin-hub/show/soul-wars)
+Nov 2024 : Plugin for Runelite - Soul Wars [![Active Installs](http://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/soul-wars)](https://runelite.net/plugin-hub/show/soul-wars)
 - Developed with Java, integrated with Runelite API
 
-Dec 2020
-: [**Common-Songs**](https://www.common-songs.com)
+Dec 2020 : [**Common-Songs**](https://www.common-songs.com)
 - Website that uses the Spotify API to find Common songs ([common-songs.com](https://www.common-songs.com))
 - Created with React, Javascript, hosted on Netlify/Heroku.
 
