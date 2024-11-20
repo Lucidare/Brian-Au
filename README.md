@@ -79,7 +79,7 @@ Nov 2024
 : **Plugin for Runelite - Soul Wars** 
 - [![Active Installs](http://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/soul-wars)](https://runelite.net/plugin-hub/show/soul-wars)
 - Sole Developer
-- Developed with Java, integrated with RuneliteBotanophobiaAPI
+- Developed with Java, integrated with Runelite API
 
 Nov 2024
 : **Plugin for Runelite - Chompy Hunter**
