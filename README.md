@@ -77,6 +77,12 @@ Sep 2009 - Sep 2013
 ## Projects
 Nov 2024
 : **Plugin for Runelite - Soul Wars** [![Active Installs](http://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/soul-wars)](https://runelite.net/plugin-hub/show/soul-wars)
+- Sole Developer
+- Developed with Java, integrated with RuneliteBotanophobiaAPI
+
+Nov 2024
+: **Plugin for Runelite - Chompy Hunter** [![Active Installs](http://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/chompy-hunter)](https://runelite.net/plugin-hub/show/chompy-hunter)
+- Worked with [PJGJ210](https://github.com/PJGJ210), and [Botanophobia](https://github.com/ejedev)
 - Developed with Java, integrated with Runelite API
 
 Dec 2020
