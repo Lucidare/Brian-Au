@@ -80,7 +80,7 @@ Nov 2024
 - Developed with Java, integrated with Runelite API
 - Soul Wars \| Sole Developer \| [![Active Installs](http://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/soul-wars)](https://runelite.net/plugin-hub/show/soul-wars)
 - Chompy Hunter \| Collaborated with  [PJGJ210](https://github.com/PJGJ210), and [Botanophobia](https://github.com/ejedev) \| [![Active Installs](http://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/chompy-hunter)](https://runelite.net/plugin-hub/show/chompy-hunter)
-- Looting Bag\ | Collaborated with [pwatts6060](https://github.com/pwatts6060), and [nicole-mcg](https://github.com/nicole-mcg) \| [![Active Installs](http://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/looting-bag-value)](https://runelite.net/plugin-hub/show/looting-bag-value)
+- Looting Bag \| Collaborated with [pwatts6060](https://github.com/pwatts6060), and [nicole-mcg](https://github.com/nicole-mcg) \| [![Active Installs](http://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/looting-bag-value)](https://runelite.net/plugin-hub/show/looting-bag-value)
 
 
 Dec 2020
