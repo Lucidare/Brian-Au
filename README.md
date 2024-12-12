@@ -85,7 +85,7 @@ Nov 2024
 
 Dec 2020
 : [**Common-Songs**](https://common-songs.netlify.app)
-- Website that uses the Spotify API to find Common songs ([common-songs.com](https://www.common-songs.com))
+- Website that uses the Spotify API to find Common songs ([common-songs.netlify.app](https://common-songs.netlify.app))
 - Created with React, Javascript, hosted on Netlify/Heroku.
 
 ## Links
